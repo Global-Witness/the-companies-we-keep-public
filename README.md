@@ -1,6 +1,6 @@
-# The companies we keep
+# The Companies We Keep
 
-The analysis contained in this Github repositry accompanies a briefing published in June 2018 entitled *The companies we keep*. The briefing looked at the UK's open data register of the real owners of companies and identified issues and gaps in the data and processes around verification that need to be addressed. This repositry contains the original analysis which produced the statistics that appear in the briefing. This is available at [`companies_we_keep_analysis.ipynb`](companies_we_keep_analysis.ipynb), the other Jupyter Notebooks include detail on data processing steps to clean and load the data into the format used for the analysis. The analysis and code was produced in collaboration with [DataKind UK](https://www.datakind.org/chapters/datakind-uk).
+The analysis contained in this Github repositry accompanies a briefing published in June 2018 entitled *[The Companies We Keep](https://www.globalwitness.org/en/campaigns/corruption-and-money-laundering/anonymous-company-owners/companies-we-keep)*. The briefing looked at the UK's open data register of the real owners of companies and identified issues and gaps in the data and processes around verification that need to be addressed. This repositry contains the original analysis which produced the statistics that appear in the briefing. This is available at [`companies_we_keep_analysis.ipynb`](companies_we_keep_analysis.ipynb), the other Jupyter Notebooks include detail on data processing steps to clean and load the data into the format used for the analysis. The analysis and code was produced in collaboration with [DataKind UK](https://www.datakind.org/chapters/datakind-uk).
 
 # Disclaimer 
 
