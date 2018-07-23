@@ -201,7 +201,7 @@ All code in this repository is available under the MIT License. All data files a
 
 # Attribution
 
-This analysis was a collaboraiton between [DataKindUK](https://www.datakind.org/chapters/datakind-uk) and Global Witness. 
+This analysis was a collaboration between [DataKind UK](https://www.datakind.org/chapters/datakind-uk) and Global Witness. 
 
 # Questions / Feedback
 
